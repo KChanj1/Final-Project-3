@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		80B05B142888A90D00726B7B /* WaterSleepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80B05B132888A90D00726B7B /* WaterSleepViewController.swift */; };
 		8631A64A2888A142008D6F48 /* JournalMoodTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */; };
 		86C13CFC288850E700E87496 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C13CFB288850E700E87496 /* AppDelegate.swift */; };
 		86C13CFE288850E700E87496 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C13CFD288850E700E87496 /* SceneDelegate.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		80B05B132888A90D00726B7B /* WaterSleepViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterSleepViewController.swift; sourceTree = "<group>"; };
 		8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalMoodTableViewController.swift; sourceTree = "<group>"; };
 		86C13CF8288850E700E87496 /* Final Project 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Project 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		86C13CFB288850E700E87496 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		86C13CEF288850E600E87496 = {
 			isa = PBXGroup;
 			children = (
+				80B05B132888A90D00726B7B /* WaterSleepViewController.swift */,
 				8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */,
 				86C13CFA288850E700E87496 /* Final Project 3 */,
 				86C13CF9288850E700E87496 /* Products */,
@@ -146,6 +149,7 @@
 			files = (
 				86C13D00288850E700E87496 /* ViewController.swift in Sources */,
 				86C13CFC288850E700E87496 /* AppDelegate.swift in Sources */,
+				80B05B142888A90D00726B7B /* WaterSleepViewController.swift in Sources */,
 				86C13D06288850E700E87496 /* Final_Project_3.xcdatamodeld in Sources */,
 				8631A64A2888A142008D6F48 /* JournalMoodTableViewController.swift in Sources */,
 				86C13CFE288850E700E87496 /* SceneDelegate.swift in Sources */,
@@ -303,6 +307,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -331,6 +336,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
