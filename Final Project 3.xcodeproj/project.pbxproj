@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8631A64A2888A142008D6F48 /* JournalMoodTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */; };
 		86C13CFC288850E700E87496 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C13CFB288850E700E87496 /* AppDelegate.swift */; };
 		86C13CFE288850E700E87496 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C13CFD288850E700E87496 /* SceneDelegate.swift */; };
 		86C13D00288850E700E87496 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C13CFF288850E700E87496 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalMoodTableViewController.swift; sourceTree = "<group>"; };
 		86C13CF8288850E700E87496 /* Final Project 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Project 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		86C13CFB288850E700E87496 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		86C13CFD288850E700E87496 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 		86C13CEF288850E600E87496 = {
 			isa = PBXGroup;
 			children = (
+				8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */,
 				86C13CFA288850E700E87496 /* Final Project 3 */,
 				86C13CF9288850E700E87496 /* Products */,
 			);
@@ -144,6 +147,7 @@
 				86C13D00288850E700E87496 /* ViewController.swift in Sources */,
 				86C13CFC288850E700E87496 /* AppDelegate.swift in Sources */,
 				86C13D06288850E700E87496 /* Final_Project_3.xcdatamodeld in Sources */,
+				8631A64A2888A142008D6F48 /* JournalMoodTableViewController.swift in Sources */,
 				86C13CFE288850E700E87496 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
