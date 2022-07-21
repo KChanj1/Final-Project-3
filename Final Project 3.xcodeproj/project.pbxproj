@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		80B05B142888A90D00726B7B /* WaterSleepViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80B05B132888A90D00726B7B /* WaterSleepViewController.swift */; };
 		80B05B182889CFC400726B7B /* FoodLogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80B05B172889CFC400726B7B /* FoodLogViewController.swift */; };
+		80B05B1E2889FA3A00726B7B /* MoodJournalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80B05B1D2889FA3A00726B7B /* MoodJournalViewController.swift */; };
 		8631A64A2888A142008D6F48 /* JournalMoodTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */; };
 		86C13CFC288850E700E87496 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C13CFB288850E700E87496 /* AppDelegate.swift */; };
 		86C13CFE288850E700E87496 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86C13CFD288850E700E87496 /* SceneDelegate.swift */; };
@@ -22,6 +23,7 @@
 /* Begin PBXFileReference section */
 		80B05B132888A90D00726B7B /* WaterSleepViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterSleepViewController.swift; sourceTree = "<group>"; };
 		80B05B172889CFC400726B7B /* FoodLogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodLogViewController.swift; sourceTree = "<group>"; };
+		80B05B1D2889FA3A00726B7B /* MoodJournalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoodJournalViewController.swift; sourceTree = "<group>"; };
 		8631A6492888A142008D6F48 /* JournalMoodTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalMoodTableViewController.swift; sourceTree = "<group>"; };
 		86C13CF8288850E700E87496 /* Final Project 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Project 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		86C13CFB288850E700E87496 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				86C13CFD288850E700E87496 /* SceneDelegate.swift */,
 				86C13CFF288850E700E87496 /* ViewController.swift */,
 				86C13D01288850E700E87496 /* Main.storyboard */,
+				80B05B1D2889FA3A00726B7B /* MoodJournalViewController.swift */,
 				86C13D07288850E900E87496 /* Assets.xcassets */,
 				86C13D09288850E900E87496 /* LaunchScreen.storyboard */,
 				86C13D0C288850E900E87496 /* Info.plist */,
@@ -153,6 +156,7 @@
 				86C13D00288850E700E87496 /* ViewController.swift in Sources */,
 				86C13CFC288850E700E87496 /* AppDelegate.swift in Sources */,
 				80B05B182889CFC400726B7B /* FoodLogViewController.swift in Sources */,
+				80B05B1E2889FA3A00726B7B /* MoodJournalViewController.swift in Sources */,
 				80B05B142888A90D00726B7B /* WaterSleepViewController.swift in Sources */,
 				86C13D06288850E700E87496 /* Final_Project_3.xcdatamodeld in Sources */,
 				8631A64A2888A142008D6F48 /* JournalMoodTableViewController.swift in Sources */,
