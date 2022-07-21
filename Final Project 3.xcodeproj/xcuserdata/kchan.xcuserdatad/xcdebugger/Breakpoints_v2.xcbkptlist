@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "94C45FBC-20E3-48E6-ACD2-E8EC4CAA5B20"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E4D55C8-0CE6-4909-9F2B-30729813CB40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WaterSleepViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "WaterSleepViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8E4D55C8-0CE6-4909-9F2B-30729813CB40 - 16435d2bd45b74e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project_3.WaterSleepViewController.WaterInfoLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Final Project 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kchan/Desktop/KWK/Final%20Project%203/WaterSleepViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "8E4D55C8-0CE6-4909-9F2B-30729813CB40 - 25902ba60c61d0f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project_3.WaterSleepViewController.WaterInfoLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Final Project 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kchan/Desktop/KWK/Final%20Project%203/WaterSleepViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "8E4D55C8-0CE6-4909-9F2B-30729813CB40 - 3365daf0709ddfe0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project_3.WaterSleepViewController.WaterInfoLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Final Project 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kchan/Desktop/KWK/Final%20Project%203/WaterSleepViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "8E4D55C8-0CE6-4909-9F2B-30729813CB40 - 50313dbfed5f335d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project_3.WaterSleepViewController.WaterInfoLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Final Project 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kchan/Desktop/KWK/Final%20Project%203/WaterSleepViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "8E4D55C8-0CE6-4909-9F2B-30729813CB40 - 67b66008bf035cff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project_3.WaterSleepViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Final_Project_3.WaterSleepViewController"
+                  moduleName = "Final Project 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kchan/Desktop/KWK/Final%20Project%203/WaterSleepViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "515">
+               </Location>
+               <Location
+                  uuid = "8E4D55C8-0CE6-4909-9F2B-30729813CB40 - 255d8d81567a34e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_Project_3.WaterSleepViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Final_Project_3.WaterSleepViewController&gt;"
+                  moduleName = "Final Project 3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kchan/Desktop/KWK/Final%20Project%203/WaterSleepViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "463">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8734975D-F4C3-4B33-983B-8FE76DCBD4B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WaterSleepViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "SleepInfoButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
