@@ -17,6 +17,10 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="sage green wallpaper" translatesAutoresizingMaskIntoConstraints="NO" id="3Oz-dv-d8U">
+                                <rect key="frame" x="-10" y="-483" width="526" height="1698"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="💤" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KoP-es-gwA">
                                 <rect key="frame" x="185" y="20" width="45" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -161,10 +165,6 @@
                                     <segue destination="GfU-jv-avp" kind="show" id="8GX-5A-uN5"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="sage green wallpaper" translatesAutoresizingMaskIntoConstraints="NO" id="3Oz-dv-d8U">
-                                <rect key="frame" x="-14" y="-403" width="435" height="1698"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="zjG-bb-9w1"/>
                         <color key="backgroundColor" systemColor="labelColor"/>
@@ -192,6 +192,10 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="lemons" translatesAutoresizingMaskIntoConstraints="NO" id="Lyv-3h-a1o">
+                                <rect key="frame" x="-36" y="-210" width="502" height="1248"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Food Log" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KMh-pN-guA">
                                 <rect key="frame" x="171" y="63" width="72" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -309,10 +313,6 @@
                                     <segue destination="GfU-jv-avp" kind="show" id="Rg3-N7-P2g"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Lyv-3h-a1o">
-                                <rect key="frame" x="3" y="0.0" width="422" height="860"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="GgG-cw-cLd"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -1015,7 +1015,7 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="fxi-LK-q75"/>
-        <segue reference="8GX-5A-uN5"/>
+        <segue reference="Rg3-N7-P2g"/>
         <segue reference="aeU-Ol-27t"/>
     </inferredMetricsTieBreakers>
     <resources>
@@ -1030,6 +1030,7 @@
         <image name="Screen Shot 2022-07-21 at 12.10.15 AM" width="238" height="208"/>
         <image name="Screen Shot 2022-07-21 at 12.16.00 AM" width="234" height="208"/>
         <image name="arrowtriangle.left" catalog="system" width="128" height="113"/>
+        <image name="lemons" width="168" height="299"/>
         <image name="sage green wallpaper" width="667" height="1200"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
